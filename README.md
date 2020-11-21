@@ -1,5 +1,7 @@
 # Fastfifo
+![goreportcard](https://goreportcard.com/badge/github.com/avbasyrov/fastfifo)
 
+## Overview
 FIFO queue with fixed size ring buffer and no memory allocations during Push/Pop.
 
 Thread safe.
